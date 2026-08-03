@@ -1,0 +1,15 @@
+# Dependencias principales para Mx Scanner Wifi
+
+# Para manejo de redes y paquetes
+scapy
+wifi
+
+# Para mejorar la salida en consola
+colorama
+tabulate
+
+# Para obtener información de interfaces de red
+netifaces
+
+# (Opcional) Para una interfaz más gráfica, si se añade en el futuro
+# PyQt5
